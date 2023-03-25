@@ -1,5 +1,5 @@
 import requests
-API_KEY = '7016bb9e277d77e9a9c36da9937c153e'
+API_KEY = ' ' #Tu token de IPSTACK
 
 # Pide al usuario que ingrese una dirección IP
 
